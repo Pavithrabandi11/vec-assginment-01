@@ -1,0 +1,28 @@
+01  Define Artificial Intelligence (AI) and provide examples of its applications
+
+
+
+Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, understanding natural language, and even interacting with the environment. AI systems are designed to mimic cognitive functions such as learning from experience and adapting to new situations.
+
+Here are some examples of AI applications across various fields:
+ 
+ Machine Learning: Machine learning is a subset of AI that focuses on enabling computers to learn from data without being explicitly programmed. Examples include:
+   ->Predictive analytics in finance and marketing.
+   ->Personalized recommendations in streaming services like Netflix or Spotify.
+   ->Spam detection in email filters.
+   ->Image and speech recognition in virtual assistants like Siri or Alexa.
+ Natural Language Processing (NLP): NLP involves the interaction between computers and humans through natural language. Examples include:
+   ->Chatbots for customer service.
+   ->Language translation tools like Google Translate.
+   ->Sentiment analysis of social media posts.
+   ->Text summarization for news articles.
+ Computer Vision: Computer vision enables computers to interpret and understand visual information from the real world. Examples include:
+   ->Facial recognition for security and authentication.
+   ->Autonomous vehicles for navigation and object detection.
+   ->Medical image analysis for diagnostics.
+   ->Augmented reality applications like Snapchat filters.
+ Robotics: Robotics integrates AI with mechanical systems to create autonomous machines capable of performing tasks in various environments. Examples include:
+   ->Industrial robots for manufacturing and assembly lines.
+   ->Surgical robots for minimally invasive surgeries.
+   ->Domestic robots for household chores.
+   ->Exploration robots for space or deep-sea exploration.

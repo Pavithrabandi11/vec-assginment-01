@@ -1,0 +1,28 @@
+02 Differentiate between supervised and unsupervised learning techniques in ML.
+
+Supervised and unsupervised learning are two fundamental paradigms in machine learning, each with distinct characteristics and applications:
+
+Supervised Learning:
+
+ ->Definition: Supervised learning involves training a model on a labeled dataset, where each example in the dataset is paired with the correct output. The goal is for the model to learn a mapping from inputs to outputs based on the labeled data.
+ ->Input: Both input features and corresponding target labels are provided during training.
+ ->Objective: The primary objective is to learn a mapping function that can accurately predict the output for new, unseen inputs.
+ ->Examples: Common examples include classification and regression tasks. In classification, the model predicts a class label or category for each input instance. In regression, the model predicts a continuous value for each input instance.
+ ->Training Process: The model is trained using algorithms such as linear regression, logistic regression, decision trees, support vector machines (SVM), and neural networks.
+ ->Evaluation: The performance of the model is evaluated based on metrics like accuracy, precision, recall, F1-score (for classification), or metrics like mean squared error, mean absolute error (for regression).
+
+Unsupervised Learning:
+ ->Definition: Unsupervised learning involves training a model on an unlabeled dataset, where the data does not have corresponding target labels. The goal is to uncover hidden patterns, structures, or relationships within the data.
+ ->Input: Only input features are provided during training; there are no corresponding target labels.
+ ->Objective: The primary objective is to explore the structure of the data, identify patterns, or cluster similar instances together without explicit guidance.
+ ->Examples: Common examples include clustering, dimensionality reduction, and anomaly detection. In clustering, the model groups similar instances together into clusters. In dimensionality reduction, the model reduces the number of input features while preserving essential information. In anomaly detection, the model identifies instances that deviate significantly from the norm.
+ ->Training Process: The model is trained using algorithms such as K-means clustering, hierarchical clustering, principal component analysis (PCA), and autoencoders.
+ ->Evaluation: The evaluation of unsupervised learning models can be more subjective and task-dependent compared to supervised learning. Evaluation may involve assessing the quality of clusters, the effectiveness of dimensionality reduction, or the ability to detect anomalies.
+
+
+ In summary, supervised learning relies on labeled data to train models for prediction tasks, while unsupervised learning seeks to find patterns and structures in unlabeled data without explicit guidance. Both paradigms have distinct use cases and algorithms tailored to different types of tasks and data.
+
+
+
+
+

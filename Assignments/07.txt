@@ -1,0 +1,4 @@
+07 Explain the difference between a keyword and an identifier in Python.
+
+
+Keywords are reserved words in Python with predefined meanings used to define the language's syntax, such as 'if', 'else', and 'while'. They cannot be used as identifiers and are integral to Python's structure. Identifiers, on the other hand, are user-defined names for variables, functions, etc., chosen by developers. They must adhere to certain rules, such as starting with a letter or underscore, and can't be keywords. While keywords are part of Python's syntax and have specific roles, identifiers represent user-defined entities within the code, providing context and meaning to elements like variables and 

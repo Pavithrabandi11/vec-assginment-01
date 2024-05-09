@@ -1,0 +1,13 @@
+08 List the basic data types available in Python.
+
+
+The basic data types available in Python are:
+
+Integer (int)
+Floating-point (float)
+Boolean (bool)
+String (str)
+List
+Tuple
+Dictionary (dict)
+Set

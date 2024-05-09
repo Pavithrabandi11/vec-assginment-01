@@ -1,0 +1,37 @@
+09 Describe the syntax for an if statement in Python.
+
+In Python, the syntax for an if statement is as follows:
+
+if condition:
+    # Indented block of code to be executed if the condition is True
+elif another_condition:
+    # Optional elif block for additional conditions
+    # Indented block of code to be executed if the condition is True
+else:
+    # Optional else block for when none of the above conditions are True
+    # Indented block of code to be executed if no previous condition is True
+
+
+Explanation:
+
+->The if keyword is followed by a condition that evaluates to either True or False.
+
+->If the condition is True, the indented block of code under the if statement is exec-uted.
+Optionally, you can include elif (short for "else if") blocks to check additional conditions if the initial if condition is not met.
+
+->If the elif condition is True, the corresponding indented block of code is executed.
+You can have multiple elif blocks to check multiple conditions sequentially.
+
+->Optionally, you can include an else block at the end to provide a fallback case for when none of the preceding conditions are met.
+
+->The else block is executed only if none of the previous conditions (including if and elif) are True.
+
+->The else block is not required if you don't need to handle cases where none of the conditions are met.
+
+->It's important to note that the indentation is crucial in Python to define the scope of code blocks. All statements within the same block must be indented by the same amount.
+
+
+
+
+
+

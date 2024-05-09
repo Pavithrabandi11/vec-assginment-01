@@ -1,0 +1,19 @@
+06 Define a variable in Python. Provide examples of valid variable names.
+
+
+In Python, a variable is a name that refers to a value stored in memory. To define a variable, simply assign a value to a name using the assignment operator '='.
+
+Examples of valid variable names:
+
+'x'
+'name'
+'age'
+'my_list'
+'pi_value'
+'is_valid'
+ˇstudent_info'
+'total_score'
+'num_of_students'
+'message'
+
+Valid variable names can start with a letter (a-z, A-Z) or underscore (_), followed by letters, underscores, or digits (0-9). They cannot contain spaces or special characters except for underscores, and cannot be a reserved keyword in Python.
